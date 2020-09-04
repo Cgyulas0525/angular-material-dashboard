@@ -1,0 +1,60 @@
+.barchart-container {
+  position: relative;
+  margin: auto;
+  height: 40vh;
+  width: 30vw;
+}
+
+.piechart-container {
+  position: relative;
+  margin: auto;
+  height: 40vh;
+  width: 35vw;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td, th {
+  width: 25%;
+}
+
+.f-15{
+  font-size: 15px;
+}
+
+.w-250{
+    width: 450px;
+}    
+  
+
+.fr-15{
+    font-size: 15px;
+    text-align: right;
+}
+  
+.th-center {
+  text-align: center;
+}
+.th-left {
+  text-align: left;
+}
+
+.th-right {
+  text-align: right;
+}
+
+.mat-card-title, .mat-label {
+  width: 100%;
+}
+
+.mat-form-field {
+  text-align: center;
+  width: 40%;
+}
